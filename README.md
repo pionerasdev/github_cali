@@ -26,7 +26,7 @@ Para la realización de nuestras actividades puedes seguir la siguiente guía: h
 8:40 am | Crea tu primer repositorio
 8:40 am | Documentando con Markdown
 8:40 am | Haz un commit
-8:40 am | Envia un pull request
+8:40 am | Envia un pull request con tus datos en el archivo *Firmas*
 
 ## Jornada de la tarde
 
