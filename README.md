@@ -43,4 +43,4 @@ Para la realización de nuestras actividades puedes seguir la siguiente guía: h
 ### Recursos
 
 - [Resources to learn Git](http://try.github.io/)
-
+- [GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
