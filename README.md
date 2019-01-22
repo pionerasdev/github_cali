@@ -42,5 +42,7 @@ Para la realización de nuestras actividades puedes seguir la siguiente guía: h
 
 ### Recursos
 
-- [Resources to learn Git](http://try.github.io/)
+- [Guia inicial](http://rogerdudler.github.io/git-guide/index.es.html)
 - [GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+- [Github Pages](https://github.com/hugozap/guia-github-pages)
+
