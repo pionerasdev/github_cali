@@ -19,30 +19,32 @@ Para la realización de nuestras actividades puedes seguir la siguiente guía: h
 
  Hora |  Actividad
 :---- | ---: | 
-8:20 am | Inicio
-8:30 am | Crear cuenta en github
-8:40 am | Instalación git bash en windows o linux
-8:40 am | Explorando la consola
-8:40 am | Crea tu primer repositorio
-8:40 am | Documentando con Markdown
-8:40 am | Haz un commit
-8:40 am | Envia un pull request con tus datos en el archivo *Firmas*
+8:00 am | Check list asistentes. 
+8:15 am | Intro Pioneras
+8:30 am | Presentación Cafeto
+9:00 am | Intro Workshop, Presentación Git, Markdown y GitHubPages
+10:00 am | Instalación Git, Crear cuenta GitHub
+10:30 am | Explorando consola, Comandos Git
+11:00 am | Ejercicio práctico GitHub
+12:30 m | Receso almuerzo
 
 ## Jornada de la tarde
 
  Hora |  Actividad
 :---- | ---: | 
 2:00 pm | Perfil Tech (Milton Lennis)
-3:10 pm | Github Pages
-3:30 pm | Seleccionar tema
-4:00 pm | Editar tema
-5:00 pm | Publicar cambios
+2:30 pm | Ejercicio práctivo GitHub Pages
+5:15 pm | Retroalimentación Workshop
 
 ¡Lo haz hecho!
 
 ### Recursos
 
-- [Guia inicial](http://rogerdudler.github.io/git-guide/index.es.html)
+- [Guia inicial - Git](http://rogerdudler.github.io/git-guide/index.es.html)
 - [GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-- [Github Pages](https://github.com/hugozap/guia-github-pages)
+- [Guía - Github Pages](https://github.com/hugozap/guia-github-pages)
+- [Otros - Github Pages](https://lab.github.com/githubtraining/github-pages) 
+
+
+
 
