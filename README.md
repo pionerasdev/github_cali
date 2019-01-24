@@ -9,7 +9,7 @@ GitHub es un servicio de alojamiento que ofrece a los desarrolladores repositori
 
 :alarm_clock: 8:00pm - 5:00p.m. (Incluimos almuerzo :ramen:)
 
-:wedding: Universidad XX - Salón XX
+:wedding: Universidad del Valle: Edificio 331. Escuela de ingenieria de Sistemas, Salón 2026
 
 # Programa
 
@@ -19,7 +19,7 @@ Para la realización de nuestras actividades puedes seguir la siguiente guía: h
 
  Hora |  Actividad
 :---- | ---: | 
-8:00 am | Check list asistentes. 
+8:00 am | Check list asistentes 
 8:15 am | Intro Pioneras
 8:30 am | Presentación Cafeto
 9:00 am | Intro Workshop, Presentación Git, Markdown y GitHubPages
@@ -33,7 +33,7 @@ Para la realización de nuestras actividades puedes seguir la siguiente guía: h
  Hora |  Actividad
 :---- | ---: | 
 2:00 pm | Perfil Tech (Milton Lennis)
-2:30 pm | Ejercicio práctivo GitHub Pages
+2:30 pm | Ejercicio práctico GitHub Pages
 5:15 pm | Retroalimentación Workshop
 
 ¡Lo haz hecho!
