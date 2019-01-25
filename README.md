@@ -13,7 +13,7 @@ GitHub es un servicio de alojamiento que ofrece a los desarrolladores repositori
 
 # Programa
 
-Para la realización de nuestras actividades puedes seguir la siguiente guía: https://docs.google.com/presentation/d/1Ve5u_tNfA1s0k85z48qWHDMSH0LfOqSTSC8yjy7zjsc
+Para la realización de nuestras actividades puedes seguir la siguiente guía: https://docs.google.com/presentation/d/1drYhLZtXIYqVndIJqPSr9P_kw3eAHO1tQS4pMiDo8nw/edit?usp=sharing
 
 ## Jornada de la mañana
 
