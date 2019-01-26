@@ -6,6 +6,6 @@
 11:44 | Mayerly | mayerly.suarez@correounivalle.edu.co
 
 
-![Probando123](images/pioneras.png)
+![Probando123](/Images/pioneras.png)
 
 #123
