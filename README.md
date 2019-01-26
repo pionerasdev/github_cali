@@ -44,3 +44,7 @@ Para la realización de nuestras actividades puedes seguir la siguiente guía: h
 - [GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - [Guía - Github Pages](https://github.com/hugozap/guia-github-pages)
 - [Otros - Github Pages](https://lab.github.com/githubtraining/github-pages)
+
+# Participantes
+
+[Sandra Milena Ruiz](http://github.com/mieruiz.github.io)
