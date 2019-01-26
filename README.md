@@ -7,7 +7,7 @@ GitHub es un servicio de alojamiento que ofrece a los desarrolladores repositori
 
 :calendar: Enero 26 de 2019
 
-:alarm_clock: 8:00pm - 5:00p.m. (Incluimos almuerzo :ramen:)
+:alarm_clock: 8:00am - 5:00p.m --> (Incluimos almuerzo :ramen:) 
 
 :wedding: Universidad del Valle: Edificio 331. Escuela de ingenieria de Sistemas, Salón 2026
 
