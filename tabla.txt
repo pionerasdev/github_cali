@@ -1,7 +1,0 @@
-# Listado de Asistencia
-
- Hora |  Nombre | Email
-:---- | ----- | ---: | 
-00:00 | Isabel | iris9112@gmail.com
-11:02 | Miguel | migkrdon@gmail.com
-11:04 | Ignacio| ignacard@hotmail.com
