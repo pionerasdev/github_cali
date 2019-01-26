@@ -47,4 +47,4 @@ Para la realización de nuestras actividades puedes seguir la siguiente guía: h
 
 # Participantes
 
-[Sandra Milena Ruiz](http://github.com/mieruiz.github.io)
+[Sandra Milena Ruiz](https://mileruiz.github.io/)
