@@ -44,6 +44,8 @@ Para la realización de nuestras actividades puedes seguir la siguiente guía: h
 - [GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - [Guía - Github Pages](https://github.com/hugozap/guia-github-pages)
 - [Otros - Github Pages](https://lab.github.com/githubtraining/github-pages) 
+# Participantes
+- [Olga Franco](https://olga794.github.io) , [Mis Datos](https://github.com/pionerasdev/github_cali/blob/master/Olga)
 
 
 
