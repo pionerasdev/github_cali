@@ -45,6 +45,8 @@ Para la realización de nuestras actividades puedes seguir la siguiente guía: h
 - [Guía - Github Pages](https://github.com/hugozap/guia-github-pages)
 - [Otros - Github Pages](https://lab.github.com/githubtraining/github-pages)
 
+
 # Participantes
 
-[Sandra Milena Ruiz](https://mileruiz.github.io/)
+- [Sandra Milena Ruiz](https://mileruiz.github.io/)
+- [Olga Franco](https://olga794.github.io) , [Mis Datos](https://github.com/pionerasdev/github_cali/blob/master/Olga)
